@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Advanced Typescript, CI/CD, Docker**
 
-- 💬 Ask me about **REACT, TYPESCRIPT**
+- 💬 Ask me about **REACT, Nest JS, TYPESCRIPT**
 
 - 📫 How to reach me **sofyanardiansyah888@gmail.com**
 
