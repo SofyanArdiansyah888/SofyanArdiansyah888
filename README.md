@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Human Resource Information System (HRIS)**
 
-- 🌱 I’m currently learning **Advanced Typescript, CI/CD, Docker**
+- 🌱 I’m currently learning **Docker Container**
 
 - 💬 Ask me about **REACT, Nest JS, TYPESCRIPT**
 
