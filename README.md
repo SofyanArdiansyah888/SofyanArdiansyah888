@@ -4,11 +4,9 @@
 <img align="right" alt="Coding"  height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Tracerstudy apps**
+- 🔭 I’m currently working on **Finance App Integration With AI Model**
 
-- 🌱 I’m currently learning **Clean Architecture & DDD**
-
-- 💬 Ask me about **REACT, Nest JS, TYPESCRIPT**
+- 💬 Ask me about **REACT, Nest JS, Next JS, React Native, Ionic Framework, TYPESCRIPT**
 
 - 📫 How to reach me **sofyanardiansyah888@gmail.com**
 
